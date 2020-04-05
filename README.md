@@ -4,4 +4,5 @@
 
 [双指针](https://github.com/BarryBean/AlgorithmNotes/blob/master/%E5%8F%8C%E6%8C%87%E9%92%88/%E5%8F%8C%E6%8C%87%E9%92%88%E9%97%AE%E9%A2%98.md)
 
-单调栈
+[单调栈](https://github.com/BarryBean/AlgorithmNotes/blob/master/%E5%8D%95%E8%B0%83%E6%A0%88/%E5%8D%95%E8%B0%83%E6%A0%88.md)
+
