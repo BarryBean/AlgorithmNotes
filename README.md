@@ -7,3 +7,7 @@
 [单调栈](https://github.com/BarryBean/AlgorithmNotes/blob/master/%E5%8D%95%E8%B0%83%E6%A0%88/%E5%8D%95%E8%B0%83%E6%A0%88.md)
 
 [滑动窗口](https://github.com/BarryBean/AlgorithmNotes/blob/master/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E9%97%AE%E9%A2%98.md)
+
+前缀和
+
+链表
