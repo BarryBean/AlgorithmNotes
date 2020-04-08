@@ -8,6 +8,7 @@
 
 [滑动窗口](https://github.com/BarryBean/AlgorithmNotes/blob/master/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E9%97%AE%E9%A2%98.md)
 
-前缀和
+[前缀和](https://github.com/BarryBean/AlgorithmNotes/blob/master/%E5%89%8D%E7%BC%80%E5%92%8C/%E5%89%8D%E7%BC%80%E5%92%8C.md)
 
-链表
+[链表](https://github.com/BarryBean/AlgorithmNotes/blob/master/%E9%93%BE%E8%A1%A8/%E9%93%BE%E8%A1%A8.md)
+
