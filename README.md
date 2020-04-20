@@ -16,7 +16,7 @@
 
 贪心
 
-二叉树
+[二叉树](https://github.com/BarryBean/AlgorithmNotes/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
 BFS
 
