@@ -18,5 +18,7 @@
 
 [二叉树](https://github.com/BarryBean/AlgorithmNotes/blob/master/%E4%BA%8C%E5%8F%89%E6%A0%91/%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 
-BFS
+[BFS](https://github.com/BarryBean/AlgorithmNotes/blob/master/BFS/BFS.md)
+
+[回溯](https://github.com/BarryBean/AlgorithmNotes/blob/master/回溯/回溯.md)
 

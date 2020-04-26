@@ -88,5 +88,11 @@ int bfs(Node start, Node target) {
 
 # 例题
 
-
+| 题号 | 题目                                                         | 难度 |
+| ---- | ------------------------------------------------------------ | ---- |
+| 127  | [单词接龙](https://github.com/BarryBean/AlgorithmNotes/blob/master/BFS/127单词接龙.md) | 中等 |
+| 994  | [腐烂的橘子](https://github.com/BarryBean/AlgorithmNotes/blob/master/BFS/994腐烂的橘子.md) | 中等 |
+| 1162 | [地图分析](https://github.com/BarryBean/AlgorithmNotes/blob/master/BFS/1162地图分析.md) | 中等 |
+| 752  | [打开转盘锁](https://github.com/BarryBean/AlgorithmNotes/blob/master/BFS/752打开转盘锁.md) | 中等 |
+| 542  | [01矩阵](https://github.com/BarryBean/AlgorithmNotes/blob/master/BFS/542 01矩阵.md) | 中等 |
 
